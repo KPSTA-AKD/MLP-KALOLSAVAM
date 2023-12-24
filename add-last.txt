@@ -1,0 +1,73 @@
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=YOUR_ANALYTICS_ID"></script>
+
+
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'YOUR_ANALYTICS_ID');
+</script>
+
+<link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Your+Font" rel="stylesheet">
+
+<script type="application/ld+json">
+  {
+      "url": "http://www.kalolsavammpm.in",
+      "name": "MALAPPURAM DISTRICT KALOLSAVAM 2023";
+  }
+</script>
+
+======================================================================================================================
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=YOUR_ANALYTICS_ID"></script>
+
+
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'YOUR_ANALYTICS_ID');
+</script>
+
+<link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Your+Font" rel="stylesheet">
+
+<script type="application/ld+json">
+  {
+      "url": "http://www.kalolsavamakd.in",
+      "name": "AREEKODE SUB-DISTRICT KALOLSAVAM 2023";
+  }
+</script>
+
+========================================================================================================================
+
+
+<!-- Banner Section -->
+<section style="background-image: url('image/ad/ad1.jpg'); background-size: cover; background-position: center; height: 20vh; width: 100%; position: relative;">
+  <!-- Add your banner content here -->
+</section>
+<!-- Banner Section -->
+<section style="background-image: url('image/ad/ad2.jpg'); background-size: cover; background-position: center; height: 20vh; width: 100%; position: relative;">
+  <!-- Add your banner content here -->
+</section>
+<!-- Banner Section -->
+<section style="background-image: url('image/ad/ad3.jpg'); background-size: cover; background-position: center; height: 20vh; width: 100%; position: relative;">
+  <!-- Add your banner content here -->
+</section>
+
+=====================================================================================================================
+
+<!-- Content Container -->
+   <div class="container rounded text-center" style="background-image: url('image/tb3.jpg'); background-size: cover; border-radius: 25%; padding-top: 40px; padding-bottom: 20px;">
+       <table class="table mx-auto" id="stageTable">
+           <tbody>
+               <!-- Your table rows -->
+           </tbody>
+       </table>
+   </div>
+   <br>
